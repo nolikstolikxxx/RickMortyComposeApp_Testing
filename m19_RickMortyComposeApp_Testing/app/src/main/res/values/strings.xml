@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">m19_RickMortyComposeApp_Testing</string>
+    <string name="please_repeat_the_download">Please repeat the download</string>
+    <string name="download_error">Download error</string>
+    <string name="characters">Characters</string>
+    <string name="details">Details</string>
+    <string name="locations">Locations</string>
+</resources>
