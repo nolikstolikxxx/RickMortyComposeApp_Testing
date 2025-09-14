@@ -32,7 +32,7 @@ The data source - [Rick and Morty](https://rickandmortyapi.com)
 <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_2.jpg" alt="jpg" width="360" height="800">
 <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_3.jpg" alt="jpg" width="360" height="800">
 
-<img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_4_NoInternetTest.jpg" alt="jpg" width="360" height="800">
+<img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/fffa7086020101f28d0c5ea6d9c1fd71032c1931/Video_1_App_General_Overview.gif" alt="gif" width="360" height="800">
 
 # Description of UI-test scenarios
 
