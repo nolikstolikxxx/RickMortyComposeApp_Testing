@@ -29,11 +29,13 @@ The data source - [Rick and Morty](https://rickandmortyapi.com)
 3. SCREEN_3 ***Locations*** - Paginating list of locations.
 
 ![SCREEN_1***Characters
-***](C:\Users\PC\AndroidStudioProjects\GITHUB\RickMortyComposeApp_Testing\Screenshot_1.jpg)
+***] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_1.jpg" alt="jpg" width="360" height="800">
 ![SCREEN_2***Details
-***](C:\Users\PC\AndroidStudioProjects\GITHUB\RickMortyComposeApp_Testing\Screenshot_2.jpg)
+***] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_2.jpg" alt="jpg" width="360" height="800">
 ![SCREEN_3***Locations
-***](C:\Users\PC\AndroidStudioProjects\GITHUB\RickMortyComposeApp_Testing\Screenshot_3.jpg)
+***] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_3.jpg" alt="jpg" width="360" height="800">
+
+![App_General_Overview_Video] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Video_1_App_General_Overview.mp4" alt="mp4" width="360" height="800">
 
 # Description of UI-test scenarios
 
@@ -133,6 +135,9 @@ of the application when there is no internet connection.
        и предоставляет возможность повторной загрузки.
     2. Позитивная валидация достигается за счет сопоставления текста на кнопке с заранее заданным
        в тесте значением.
+
+![NoInternetTest] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_4_NoInternetTest.jpg" alt="jpg" width="360" height="800">
+![NoInternetTest_Video] <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Video_2_NoInternetTest.mp4" alt="mp4" width="360" height="800">
 
 # Unit Testing
 
