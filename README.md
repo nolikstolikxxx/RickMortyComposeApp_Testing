@@ -134,7 +134,7 @@ of the application when there is no internet connection.
        в тесте значением.
 
 <img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Screenshot_4_NoInternetTest.jpg" alt="jpg" width="360" height="800">
-<img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/2fc8db1d6dbc409d36ee4f54cd872c7ec4ebc704/Video_2_NoInternetTest.mp4" alt="mp4" width="360" height="800">
+<img src="https://github.com/nolikstolikxxx/RickMortyComposeApp_Testing/blob/aeccdc5d32116a97f827659d9da10d3c927f16f2/Video_2_NoInternetTest.gif" alt="gif" width="360" height="800">
 
 # Unit Testing
 
